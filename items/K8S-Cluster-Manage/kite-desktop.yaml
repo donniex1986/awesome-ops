@@ -1,0 +1,5 @@
+kind: K8S-Cluster-Manage
+owner: eryajf
+repo: kite-desktop
+desc: '一个基于 Wails v3 打造、面向桌面端的 K8S 多集群管理工具，支持Mac与Windows系统'
+desc_en: 'A K8S multi-cluster management tool based on Wails v3, designed for desktop, supporting Mac and Windows systems'
